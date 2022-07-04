@@ -13,3 +13,6 @@ HTML    CSS
  
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dianawanjiru&count_private=true&show_icons=true&include_all_commits=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianawanjiru&hide=TeX&layout=compact)
+ ![alt text]([http://url/to/img.png)](https://drive.google.com/file/d/1CSqoOtAl3nBkM9qb0CzEXh0B4g1kcr8e/view?usp=sharing)
+ 
+ https://drive.google.com/file/d/1CSqoOtAl3nBkM9qb0CzEXh0B4g1kcr8e/view?usp=sharing
