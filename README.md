@@ -2,7 +2,7 @@
 
 ## Author
 Diana Wanjiru
-![Img](https://user-images.githubusercontent.com/108527675/177063885-77eb27c1-7192-43dc-8a13-171295b58326.jpg)
+
 
 ## Description
 This project aims as testing my HTML and CSS understanding while trying to create a replica of the Vallies-Estate website.
